@@ -1,6 +1,6 @@
 # MD Humayun
 
-**ML Engineer and Software Development Engineer**
+**ML Engineer and Software Development Engineer**\
 M.Tech Computer Science, Information Security & Privacy — SVNIT Surat · GATE CS 2025, 93.8 percentile
 
 I work where machine learning meets systems engineering. Training a model is the
@@ -17,8 +17,8 @@ md.humayun7777777@gmail.com
 
 ## What I am building
 
-**[IPS-ML / ShieldNet](https://github.com/mdhumayun7/ips)** — my M.Tech
-dissertation, and the work I would most like to be asked about.
+**[IPS-ML / ShieldNet](https://github.com/mdhumayun7/ips)** — my main machine
+learning project, and the work I would most like to be asked about.
 
 An inline intrusion prevention system is not a classifier with a nicer name. It
 executes its own predictions: a false positive does not raise an alert for
@@ -47,6 +47,7 @@ classical baseline. Paper under review at IEEE GSCON 2027.
 | Project | What it demonstrates | Evidence |
 | --- | --- | --- |
 | [**ips**](https://github.com/mdhumayun7/ips) | Explainable ML in an enforcement path | 2.5M flows · macro-F1 0.8814 · FAR 0.00135 |
+| [**Smart-Home-Automation**](https://github.com/mdhumayun7/Smart-Home-Automation) | ESP32 firmware whose failure behaviour is specified and tested | Dual-core FreeRTOS · 84 / 84 host test runs · CI-built for arduino-esp32 2.0.17 and 3.3.12 |
 | [**job-agent**](https://github.com/mdhumayun7/job-agent) | Data pipelines built to degrade, not fail | 11 sources · 2,158 records · 793 → 357 after dedup |
 | [**ddos-5g-sdn-project**](https://github.com/mdhumayun7/ddos-5g-sdn-project) | Detection and mitigation inside an SDN controller | 54.3 → 31 Gbps measured under flood |
 | [**vae-aevb-reimplementation**](https://github.com/mdhumayun7/vae-aevb-reimplementation) | Reading a paper closely enough to reproduce it | SSIM 0.678 · PSNR 23.40 dB |
@@ -68,10 +69,11 @@ That habit is the thing I would want a reviewer to notice.
 
 ## Stack
 
-**Languages** C++ · Python · SQL
-**ML** TensorFlow · Keras · scikit-learn · XGBoost · SHAP · LoRA · PPO
-**LLM and retrieval** LangChain · Pinecone · Ollama · RAG
-**Infrastructure** Docker · AWS (EC2, S3) · GitHub Actions · Linux
+**Languages** C++ · Python · SQL\
+**Embedded and IoT** ESP32 · FreeRTOS · Arduino · MQTT · Home Assistant\
+**ML** TensorFlow · Keras · scikit-learn · XGBoost · SHAP · LoRA · PPO\
+**LLM and retrieval** LangChain · Pinecone · Ollama · RAG\
+**Infrastructure** Docker · AWS (EC2, S3) · GitHub Actions · Linux\
 **Networking** SDN · OpenFlow · Mininet · Scapy
 
 ---
