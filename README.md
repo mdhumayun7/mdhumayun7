@@ -47,7 +47,7 @@ classical baseline. Paper under review at IEEE GSCON 2027.
 | Project | What it demonstrates | Evidence |
 | --- | --- | --- |
 | [**ips**](https://github.com/mdhumayun7/ips) | Explainable ML in an enforcement path | 2.5M flows · macro-F1 0.8814 · FAR 0.00135 |
-| [**Smart-Home-Automation**](https://github.com/mdhumayun7/Smart-Home-Automation) | ESP32 firmware whose failure behaviour is specified and tested | Dual-core FreeRTOS · 84 / 84 host test runs · CI-built for arduino-esp32 2.0.17 and 3.3.12 |
+| [**Smart-Home-Automation**](https://github.com/mdhumayun7/Smart-Home-Automation) | A safety-critical embedded system hardened against attack and verified | Dual-core ESP32 · HMAC command auth + replay protection · deauth detection · TLA+ model checked · 120 CI checks |
 | [**job-agent**](https://github.com/mdhumayun7/job-agent) | Data pipelines built to degrade, not fail | 11 sources · 2,158 records · 793 → 357 after dedup |
 | [**ddos-5g-sdn-project**](https://github.com/mdhumayun7/ddos-5g-sdn-project) | Detection and mitigation inside an SDN controller | 54.3 → 31 Gbps measured under flood |
 | [**vae-aevb-reimplementation**](https://github.com/mdhumayun7/vae-aevb-reimplementation) | Reading a paper closely enough to reproduce it | SSIM 0.678 · PSNR 23.40 dB |
